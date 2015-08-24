@@ -1,0 +1,13 @@
+{
+  "name": "ons-api",
+  "version": "0.0.1",
+  "description": "API of ONS service of Alibaba Inc",
+  "keywords": [
+    "ons",
+    "alibaba"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ali-ons/ons-api.git"
+  }
+}

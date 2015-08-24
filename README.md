@@ -1,2 +1,2 @@
 # ons-api
-ONS API
+API of ONS service of Alibaba Inc
