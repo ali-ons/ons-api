@@ -9,5 +9,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:ali-ons/ons-api.git"
+  },
+  "dependencies": {
+    "nproperties": "0.0.3"
   }
 }
